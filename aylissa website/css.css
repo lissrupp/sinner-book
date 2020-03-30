@@ -1,0 +1,36 @@
+/* global css */
+body {
+  margin: 0;
+}
+
+/*id's*/
+#container {
+  background-color: #860111;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#header {
+  min-height: 100%;
+}
+
+/*classes*/
+#header .headerMain {
+  font-size: 50px;
+  font-family: Comic Sans, Comic Sans MS, cursive;
+  width: 50%;
+  height: 0%;
+  float: left;
+}
+
+#header .headerText {
+  width: 50%;
+  height: 50%;
+  float: right;
+}
+
+#clear {
+  clear: both;
+}
