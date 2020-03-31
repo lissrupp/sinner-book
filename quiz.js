@@ -7,7 +7,7 @@
 //Lust, Gluttony, Greed, Sloth, Wrath, Envy, Pride
 
 var prompts = [{
-		prompt: 'Lust',
+		prompt: 'pie',
 		weight: [5, 0, 0, 0, 0, 0, 0],
 		class: 'group0'
 	},
